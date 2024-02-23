@@ -1,6 +1,8 @@
 # File-Random-Clone-
 
 
+COMMANDS:⬇️
+
 
 cd
 
